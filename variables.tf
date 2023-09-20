@@ -23,7 +23,7 @@ variable "destination-container-url" {
 variable "github-organization" {
   description = "GitHub Organization Name"
   type        = string
-  default     = "psahuNasuni"
+  default     = "nasuni-labs"
 }
 
 variable "nac-scheduler-name" {
